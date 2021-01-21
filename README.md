@@ -1,2 +1,2 @@
 # GenerativePiano
-An AI Pianoo
+An AI Piano
